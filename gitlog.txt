@@ -1,0 +1,23 @@
+commit 26c37bebf18f7b77ecbdbcf0b8aae547cb0dcd82
+Author: Lance Liu <lanceliumeng89@gmail.com>
+Date:   Fri Oct 22 14:07:27 2021 +1100
+
+    draft update
+
+commit 257ee92664614ef2e450c8554790c0deaa0715a7
+Author: Lance Liu <lanceliumeng89@gmail.com>
+Date:   Thu Oct 21 14:14:50 2021 +1100
+
+    this is second updates
+
+commit bb9135cd4aac217ed8992e11892c452753ab53ea
+Author: Lance Liu <lanceliumeng89@gmail.com>
+Date:   Thu Oct 21 11:24:25 2021 +1100
+
+    here is my first change in html file
+
+commit e2b04f2cef9783180bfc8fa374b62ed01cfffa2c
+Author: Lance Liu <lanceliumeng89@gmail.com>
+Date:   Thu Oct 21 11:10:57 2021 +1100
+
+    this is my first portfolio assignment
